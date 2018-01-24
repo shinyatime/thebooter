@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc.mysql://localhost:3306/thebooter?characterEncoding=utf8
+    url: jdbc.mysql://localhost:3306/thebooter?characterEncoding=utf8&useSSL=true
     username: root
     username: root
   jpa:
